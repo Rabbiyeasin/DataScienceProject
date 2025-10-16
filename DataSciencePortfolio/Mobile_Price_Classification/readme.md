@@ -1,5 +1,5 @@
 # 📱 Mobile Price Classification – EDA & Machine Learning Model
-### 🧠 MentorNess Internship Program | October 2025
+### 🧠 MentorNess Internship Program | April 2024 | Updated : October 2025
 
 ---
 
