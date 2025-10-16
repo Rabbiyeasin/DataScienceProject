@@ -129,7 +129,7 @@ This section showcases the improvement achieved after implementing the **Stacked
 ### 📊 Visual Representation of Improvement
 
 
-![Model Accuracy Improvement Chart](images/model_improvement_chart.png)
+![Model Accuracy Improvement Chart](images/model_accuracy_chart.png)
 
 🟩 Each bar represents mean cross-validation accuracy.  
 📈 The stacked model provides a **final performance lift** through multi-model blending.
