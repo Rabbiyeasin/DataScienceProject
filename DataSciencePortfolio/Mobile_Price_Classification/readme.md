@@ -161,15 +161,6 @@ In competitive ML benchmarks, such gains demonstrate **mature understanding of e
 - 🔹 Integrate a **Power BI Dashboard** for executive visualization  
 
 ---
-
-## 🧑‍💻 Author
-**Rabbi Islam Yeasin**  
-🎓 IBM Data Science Certified  
-🌐 [LinkedIn](https://linkedin.com/in/rabbiyeasin) • [GitHub](https://github.com/rabbiyeasin)  
-📧 official.rabbiyeasin@gmail.com  
-
----
-
 ## 🏁 Project Impression Matrix
 
 | Dimension | Description | Rating (★ out of 5) |
@@ -189,6 +180,12 @@ In competitive ML benchmarks, such gains demonstrate **mature understanding of e
 
 Improved model accuracy from **82.9% (Decision Tree)** to **92.5% (Stacked Model)** using ensemble techniques — showcasing applied skills in **machine learning**, **model tuning**, and **performance optimization**.
 
-
 ---
 
+## 🧑‍💻 Author
+**Rabbi Islam Yeasin**  
+🎓 CSE Graduate, UIU | IBM Data Science Certified  
+🌐 [LinkedIn](https://linkedin.com/in/rabbiyeasin) • [GitHub](https://github.com/rabbiyeasin)  
+📧 official.rabbiyeasin@gmail.com  
+
+---
