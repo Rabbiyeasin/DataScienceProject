@@ -108,7 +108,7 @@ This section showcases the improvement achieved after implementing the **Stacked
 | **Decision Tree (DT)** | Baseline | **82.9%** | – | Reference level |
 | **Random Forest (RF)** | Ensemble | **87.7%** | **+4.8%** | Improved via feature bagging |
 | **K-Nearest Neighbors (KNN)** | Distance-based | **92.2%** | **+9.3%** | Captured nonlinear relations |
-| **Stacked Model (RF + KNN + DT)** | 🧠 Optimized Ensemble | 🏆 **92.5%** | **+9.6%** | Final enhancement (your model) |
+| **Stacked Model (RF + KNN + DT)** | 🧠 Optimized Ensemble | 🏆 **92.5%** | **+9.6%** | Final enhancement |
 
 ---
 
