@@ -145,6 +145,6 @@ Even with an R² of 0.44, it captures nearly half the story — enough to show t
 IBM Certified Professional Data Scientist
 Director, Yeasin Arena Excelytics
 Member, Institution of Engineers, Bangladesh (IEB)
-📧 [rabbi.datascientist@gmail.com](mailto:rabbi.datascientist@gmail.com)
+📧 [rabbi.datascientist@gmail.com](mailto:rabbi.datascientist@yeasin-arena.com)
 
 ---
